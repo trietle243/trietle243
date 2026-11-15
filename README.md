@@ -53,7 +53,8 @@ status: "still figuring things out :)"
 I also like exploring languages, music, sketching, and ideas that have nothing to do with code.
 Not everything needs to become a side project — sometimes it's enough to be curious.
 I love writing, drawing, playing and listening to music, nature, yapping with friends about certain topics, drinking (not alcoholic btw :>)
-
+I have a youtube channel for posting guitar vids (over 31k views btw)
+https://www.youtube.com/@minkchiec2430
 
 <div align="center">
 
