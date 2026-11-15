@@ -16,7 +16,8 @@ I used to break my guitar, my pc, my laptop, my dad's laptop, my grandfather's r
 
 ```yaml
 name: Triet (Phil)
-my (extended)background: I'm 23 now, aquarius, my background was International Business at UEH, but I am making a living as a data guy, weirdshiet :>
+my (extended)background: I'm 23 now, aquarius, my background was International Business at UEH,
+but I am making a living as a data guy, weirdshiet :>
 currently_exploring:
   - Data Engineering & distributed systems
   - Python, Go & data structures
