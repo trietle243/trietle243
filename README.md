@@ -16,7 +16,7 @@ I used to break my guitar, my pc, my laptop, my dad's laptop, my grandfather's r
 
 ```yaml
 name: Triet (Phil)
-background: Data Analytics
+my (extended)background: I'm 23 now, aquarius, my background was International Business at UEH, but I am making a living as a data guy, weirdshiet :>
 currently_exploring:
   - Data Engineering & distributed systems
   - Python, Go & data structures
@@ -30,6 +30,7 @@ approach:
   - write down what I learned 
 
 status: "still figuring things out :)"
+
 ```
 
 ### things I'm building & learning 🛠️
